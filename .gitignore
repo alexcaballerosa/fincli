@@ -1,2 +1,6 @@
 /target
 config.toml
+*.sqlite
+*.sqlite3
+*.db
+*.db3
